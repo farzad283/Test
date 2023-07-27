@@ -1,0 +1,9 @@
+    <!-- Icône Celliers -->
+        <!-- Créé par NAPISAH de the Noun Project : https://thenounproject.com/andrejs/ -->
+        <!-- Changes=ments: viewBox -->
+        <!-- License: https://creativecommons.org/licenses/by/3.0/legalcode -->
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="-20 -7 85 80">
+        <path
+            d="M23 0c12.702549 0 23 10.297451 23 23v42c0 .552285-.447715 1-1 1H1c-.552285 0-1-.447715-1-1V23C0 10.297451 10.297451 0 23 0Zm21 24v-1c0-11.59798-9.40202-21-21-21S2 11.40202 2 23v31h7v-9c0-.552285.447715-1 1-1h8v-9c0-.552285.447715-1 1-1h8v-9c0-.552285.447715-1 1-1h16ZM2 56v8h42v-8H2Zm9-10v8h33v-8H11Zm9-10v8h24v-8H20Zm9-10v8h15v-8H29Z">
+        </path>
+    </svg>
